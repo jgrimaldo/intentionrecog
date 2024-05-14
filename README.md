@@ -16,7 +16,7 @@ Citation
 
 If you use this dataset in your research, please cite our work as follows:
 
-'''
+```
 @inproceedings{rekik2024predictive,
   title={Predictive intention recognition using deep learning for collaborative assembly},
   author={Rekik, Khansa and Gajjar, Nishant and Silva, Grimaldo and M{\"u}ller, Rainer},
@@ -24,7 +24,7 @@ If you use this dataset in your research, please cite our work as follows:
   year={2024},
   organization={IEEE}
 }
-'''
+```
 
 **Contact**
 
