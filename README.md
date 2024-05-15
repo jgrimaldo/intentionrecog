@@ -11,8 +11,7 @@ Dataset Contents
 
 **Usage**
 
-This dataset is intended for research purposes, specifically for the development and testing of models aimed at predicting human intentions in collaborative environments. Researchers and developers can use this data to train and validate their models.
-Citation
+This dataset is intended for research purposes, specifically for the development and testing of models aimed at predicting human intentions in collaborative environments. Researchers and developers can use this data to train and validate their models. Images of the personnel included in this dataset should not be used in any publications or papers.
 
 If you use this dataset in your research, please cite our work as follows:
 
