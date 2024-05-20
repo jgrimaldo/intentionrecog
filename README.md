@@ -3,7 +3,8 @@
 **Description**
 
 This dataset is part of the research work "Predictive intention recognition using deep learning for collaborative assembly" presented at CoDIT 2024 as part of the RICAIP project, funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 857306. The dataset includes hundreds of short videos capturing workers engaged in different assembly tasks. Each frame within the videos has been annotated with human hands and assembly product components, serving as the primary input for Long-Short Term Memories (LSTMs) to predict human intentions in real-time.
-Dataset Contents
+
+**Dataset Contents**
 
 - Videos: Short clips of workers performing assembly tasks.
 - Annotations: Each frame is annotated for human hands and assembly components.
