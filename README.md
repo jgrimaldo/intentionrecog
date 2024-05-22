@@ -4,11 +4,9 @@
 
 This dataset is part of the research work "Predictive intention recognition using deep learning for collaborative assembly" presented at CoDIT 2024 as part of the RICAIP project, funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 857306. The dataset includes hundreds of short videos capturing workers engaged in different assembly tasks. Each frame within the videos has been annotated with human hands and assembly product components, serving as the primary input for Long-Short Term Memories (LSTMs) to predict human intentions in real-time.
 
-**Dataset Contents**
+- Hand Segmentation Dataset: contains the a entire set of images used to train the YOLACT model as well as their annotations.
 
-- Videos: Short clips of workers performing assembly tasks.
-- Annotations: Each frame is annotated for human hands and assembly components.
-- Metadata: Additional information about the tasks and conditions under which the videos were recorded.
+- LSTM Dataset Sample: A small portion of the data used to train the LSTM model which we are not at liberty to publish due to project constraints. Contains short video samples and extracted frames with their annotations.
 
 **Usage**
 
