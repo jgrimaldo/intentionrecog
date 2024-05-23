@@ -18,7 +18,7 @@ If you use this dataset in your research, please cite our work as follows:
 @inproceedings{rekik2024predictive,
   title={Predictive intention recognition using deep learning for collaborative assembly},
   author={Rekik, Khansa and Gajjar, Nishant and Silva, Grimaldo and M{\"u}ller, Rainer},
-  booktitle={Proceedings of the International Conference on Control, Decision and Information Technologies (CoDIT)},
+  booktitle={Int. Conf. on Control, Decision and Information Technologies (CoDIT)},
   year={2024},
   organization={IEEE}
 }
