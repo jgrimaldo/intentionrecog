@@ -38,4 +38,4 @@ For any questions or additional information, please contact:
 - URL: https://dateiaustausch.zema.de/s/PyEroxXBC44iJcL 
 - Password: CoDit_2024
 
-In case the link is temporarily offline, please, contact j.osejgrimaldo+dataset at gmail dot com for a mirror link. 
+In case the link is temporarily offline, please, contact j.osejgrimaldo+dataset@gmail.com for a mirror link. 
